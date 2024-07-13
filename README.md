@@ -1,7 +1,5 @@
 # The Paradise of Georg Cantor
 
-![Georg Cantor](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Georg_Cantor_1870s.jpg/220px-Georg_Cantor_1870s.jpg)
-
 ## Overview
 
 This project contains a detailed LaTeX document about the life and work of the mathematician Georg Cantor. The document delves into Cantor's contributions to mathematics, particularly in set theory, and explores various theorems and hypotheses he developed.
